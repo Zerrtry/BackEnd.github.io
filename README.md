@@ -1,4 +1,4 @@
-# BackEnd.github.io
+# BackEnd
 
 'Born to Read' Book Club - submitted on July 18th 2020 during Northwestern FULL STACK FLEX coding bootcamp
 
