@@ -1,27 +1,19 @@
 # BackEnd.github.io
 
-'Canine Cupid' app. Submitted on September 15th 2020 during Northwestern FULL STACK FLEX coding bootcamp Developed by a Team of 5 developers - Isha Bali, Dmitrii Zverev, Logan McCann, Carlos Reyes, Julianne Bainter
+'Born to Read' Book Club - submitted on July 18th 2020 during Northwestern FULL STACK FLEX coding bootcamp
 
-Link to Deployed App: http://canine-cupid.s3-website.us-east-2.amazonaws.com/
+Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zverev & Carlos Reyes
 
-Links to Github Repository: Organization - Canine Cupid - https://github.com/Project-3-Canine-Cupid Frontend: https://github.com/Project-3-Canine-Cupid/Back-End Backend : https://github.com/Project-3-Canine-Cupid/Front-End
+Link to Deployed App: https://nw-bookclub2020.github.io/FrontEnd.github.io/
 
-Presentation: https://docs.google.com/presentation/d/1SxGIsXUXfcyI9qR1ks2D07JHIUExOqwXSbh9UefcxDM/edit#slide=id.p
+Links to Github Repository: Frontend: https://github.com/NW-BookClub2020/FrontEnd.github.io Backend : https://github.com/NW-BookClub2020/BackEnd.github.io
 
-Concept: Coronavirus has impacted our world in many ways, one of which being the recent skyrocket in animal adoption rates. Shelters everywhere have been cleared by people looking for four-legged friends, and while staying home with them 24/7 was initially great, our pups are getting just as stir-crazy as we are. That’s where Canine Cupid comes in. Canine Cupid is the dog-matching app you and your pup have been waiting for. Just make an account outlining your dog’s likes, dislikes, and personality traits to match them with a friend that is just as special as they are. Grab your mask, your pup’s leash and head out for a (socially-distanced) playdate!
+Presentation: https://docs.google.com/presentation/d/1lbDkWGF56LuBWIlhzB7xCRyMIYwANUIDVOkbfA4vQ5c/edit#slide=id.g8c4bf16f2c_0_0
 
-Frontend: Technologies used - React, Javascript, Jquery, AXIOS, Mapbox-cli (Rest API), Jest, Bcrypt, Github, AWS
+Elevator Pitch: 'Born to Read' is a Book Club that allows participants to read books, review books, buy books and look at other reviews of the books to make their reading decisions. It is a space dedicated to book fanatics who love to share their reading experiences with others.
 
-Breakdown of tasks and role:
-Isha: Sign-up, edit profile, validations, modals, components & styling 
-Logan: styling, matches page, & components
-Carlos: matches page, profile, & components 
-Dimitri: main functionality, sign in/ sign up (authentication), Match Now, context, components, deployments & React Router
-Backeend: Technologies used - MongoDb, Mongoose, bcrypt, Heroku, MLAB, MVC, Travis CI, NPM
+Concept: For anyone looking for content and staying connected, simulating how things were done before COVID Motivation for development? Having free access to books and to connect with other people by reading, reviewing and discussing books together
 
-Breakdown of tasks and role: 
-    Isha:       Schema for database, routes and controller functions, 
-                login & authentication routes
-    Dmitrii:    schema for database, routes and controller functionality, login and authentication routes, deployment, middleware for authentication, & API endpoints
-    Carlos:     Unit testing
-    Julie:      seeder
+Technologies used JQuery, Express, MySQL, Bootstrap, Heroku, Git, GitHub, RESTside API Query, Express, MySQL, Bootstrap, Heroku, Git, GitHub, RESTside API (Tripadvisor), Travis CI
+
+Breakdown of tasks and role: Scrum Master, FrontEnd development and BackEnd development
