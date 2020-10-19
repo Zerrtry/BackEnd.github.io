@@ -43,3 +43,6 @@ Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zver
 
 * back-end: [https://github.com/Zerrtry/Book-club-Back-end](https://github.com/Canine-Cupid-2-0/Front-End)
 
+**Link to Server:**
+* https://nwbookclub.herokuapp.com/status
+
