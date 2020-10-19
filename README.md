@@ -13,7 +13,7 @@ See the website [here!](https://nw-bookclub2020.github.io/FrontEnd.github.io/)
 
 ## Views
 
-![](/book-club.png)
+![](/book-club.gif)
 
 ### Usage
 
