@@ -37,7 +37,7 @@ This repository is used for learning purposes. Please refrain from contributions
 
 **Github Repositories:**
 
-* front-end: [https://github.com/Canine-Cupid-2-0/Front-End](https://github.com/Canine-Cupid-2-0/Front-End)
+* front-end: [https://github.com/Zerrtry/Book-club-Front-end](https://github.com/Zerrtry/Book-club-Front-end)
 
 * back-end: [https://github.com/Zerrtry/Book-club-Back-end](https://github.com/Canine-Cupid-2-0/Front-End)
 
