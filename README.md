@@ -27,7 +27,8 @@ Node.js, Express.js, JQuery, MySQL, Bootstrap, Heroku, GitHub, Travis CI
 ### Contribution
 
 **Contributors**
-'Born to Read' Book Club - submitted on July 18th 2020 during Northwestern FULL STACK FLEX coding bootcamp
+'Born to Read' Book Club - submitted on July of 2020 during Northwestern FULL STACK FLEX coding bootcamp.
+
 Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zverev & Carlos Reyes
 
 This repository is used for learning purposes. Please refrain from contributions or forking without explicit permission.
