@@ -1,10 +1,24 @@
-# BackEnd
+# 'Born to read' - Book Club
 
-Quick link: https://nwbookclub.herokuapp.com/status
+![Github Badge](https://img.shields.io/github/languages/top/zerrtry/Book-club-Back-end)
+![Github Badge](https://img.shields.io/github/languages/count/zerrtry/Book-club-Back-end?color=yellow)
 
-'Born to Read' Book Club - submitted on July 18th 2020 during Northwestern FULL STACK FLEX coding bootcamp
+See the website [here!](https://nw-bookclub2020.github.io/FrontEnd.github.io/)
 
-Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zverev & Carlos Reyes
+## Contents
+* [Usage](#Usage)
+* [Contribution](#Contribution)
+* [Deployment](#Deployment)
+
+## Views
+
+![](assets/book-club.gif)
+
+### Usage
+
+
+
+
 
 Link to Deployed App: https://nw-bookclub2020.github.io/FrontEnd.github.io/
 
@@ -19,3 +33,28 @@ Concept: For anyone looking for content and staying connected, simulating how th
 Technologies used JQuery, Express, MySQL, Bootstrap, Heroku, Git, GitHub, RESTside API Query, Express, MySQL, Bootstrap, Heroku, Git, GitHub, RESTside API (Tripadvisor), Travis CI
 
 Breakdown of tasks and role: Scrum Master, FrontEnd development and BackEnd development
+
+
+
+
+
+
+This group project uses Open Weather API and The Movie Database API.
+When the user enters city of choice the user is presented a Movie to watch (poster, title, original release date, overview, and trailer if available) that is base off the the current weather in that city. User may choose another city or the same city to get a new result and the previous movie is saved temporarily at the bottom of the start page.
+
+### Contribution
+
+This repository is used for learning purposes. Please refrain from contributions or forking without explicit permission.
+
+**Contributors**
+'Born to Read' Book Club - submitted on July 18th 2020 during Northwestern FULL STACK FLEX coding bootcamp
+Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zverev & Carlos Reyes
+
+### Deployment
+
+**Link to Github Repositories:**
+
+* front-end: [https://github.com/Canine-Cupid-2-0/Front-End](https://github.com/Canine-Cupid-2-0/Front-End) *
+
+* back-end: [https://github.com/Zerrtry/Book-club-Back-end] (https://github.com/Canine-Cupid-2-0/Front-End) *
+
