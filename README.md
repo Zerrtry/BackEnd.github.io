@@ -37,12 +37,12 @@ Developed by a Team of 4 developers - Mariya Kirichenko, Isha Bali, Dmitrii Zver
 
 ### Deployment
 
-**Link to Github Repositories:**
+**Github Repositories:**
 
 * front-end: [https://github.com/Canine-Cupid-2-0/Front-End](https://github.com/Canine-Cupid-2-0/Front-End)
 
 * back-end: [https://github.com/Zerrtry/Book-club-Back-end](https://github.com/Canine-Cupid-2-0/Front-End)
 
-**Link to Server:**
+**Server:**
 * https://nwbookclub.herokuapp.com/status
 
