@@ -39,7 +39,7 @@ This repository is used for learning purposes. Please refrain from contributions
 
 * front-end: [https://github.com/Zerrtry/Book-club-Front-end](https://github.com/Zerrtry/Book-club-Front-end)
 
-* back-end: [https://github.com/Zerrtry/Book-club-Back-end](https://github.com/Canine-Cupid-2-0/Front-End)
+* back-end: [https://github.com/Zerrtry/Book-club-Back-end](https://github.com/Zerrtry/Book-club-Back-end)
 
 **Server:**
 * https://nwbookclub.herokuapp.com/status
